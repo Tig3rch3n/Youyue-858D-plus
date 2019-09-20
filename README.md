@@ -1,22 +1,22 @@
 
-Youyue-858D-plus
+KKMoon-858D
 ================
+*Warning*
+The KKMoon version has the same ATmega 8A as the Youyue version has but they rearranged the pinout U_u
+To Date nothing has been changed compared to tho original Firmware by madworm
 
-Custom firmware for the Youyue 858D+ (ATmega168/ATmega328)
+--------------------------------------------------------------------------
+
+Custom firmware for the KKMoon-858D (ATmega168/ATmega328)
 
 There is a 'user manual' of sorts in the 'Docs' folder.
-
-Some videos showing the progress from 'stock firmware' with massive temperature overshoot
-towards almost no overshoot at all.
-
-https://www.youtube.com/playlist?list=PLONcxJMOrdyeYuEgM6qhCllZelN6gPjrT
-
 
 Please note:
 
 Although this device looks very much like ones sold by 'Atten' and others, the innards
 are not necessarily the same. The heater / wand are probably the same, but I know that
 e.g. the 'Atten 858D' uses a different mainboard with a different brand micro controller.
+The KKMoon version has the same ATmega 8A as the Youyue 858D+ version has but they rearranged the pinout
 
 Naturally, this firmware will only work 'as is' for the exact mcu / mainboard combination I have.
 Please see the 'Docs' folder for schematic and PCB photos.
